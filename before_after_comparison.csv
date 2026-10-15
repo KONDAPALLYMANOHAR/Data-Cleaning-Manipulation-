@@ -1,0 +1,11 @@
+Metric,Before,After
+Rows,1010,1002
+Columns,14,14
+Missing cells,159,0
+Exact duplicate rows,8,0
+Invalid/non-numeric Unit_Price values,21,0
+Invalid Quantity values (<= 0),2,0
+Invalid Customer_Rating values,2,0
+Invalid Delivery_Days values (< 0),1,0
+Invalid Order_Date values,20,0
+Rows after cleaning,,1002
